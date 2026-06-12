@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Fishiguess.aternos.me:60640",
+    "port": 60640,
     "version": "",
     "try-creative": false
   },
